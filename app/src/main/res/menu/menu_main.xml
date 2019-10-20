@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="MainActivity">
+
+    <item
+        android:id="@+id/action_open_notes"
+        android:orderInCategory="100"
+        android:title="Записная книжка"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_time_task"
+        android:orderInCategory="100"
+        android:title="Сроки задачи"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_spinner"
+        android:orderInCategory="100"
+        android:title="Выбор адреса"
+        app:showAsAction="never" />
+
+</menu>

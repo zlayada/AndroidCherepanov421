@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Список с custom элементами</string>
+    <string name="tChooseStartDate">Дата-время старта задачи:</string>
+    <string name="tChooseEndDate">Дата-время окончания задачи:</string>
+    <string name="tBtnOK">ОК</string>
+    <string name="textScreen">Выберите адрес доставки:</string>
+    <string name="tCountry">Страна</string>
+    <string name="tCity">Город</string>
+    <string name="tHouse">Дом</string>
+    <string name="tbuttonShowAddress">Показать адрес</string>
+    <string name="tNote">Заметки</string>
+    <string name="tAdress">Адрес доставки</string>
+    <string name="tTask">Задачи</string>
+
+    <string name="title_label">"Sample: "</string>
+    <string name="category_label">"Category: "</string>
+    <string name="categoty_adress">Логистика</string>
+    <string name="category_task">Продуктивность</string>
+    <string name="category_notes">Творчество</string>
+
+
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Беларусь</item>
+    </string-array>
+
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+
+</resources>
